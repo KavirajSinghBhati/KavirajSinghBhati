@@ -50,6 +50,12 @@
   </a>
 
 </p>
+<p align="center" >
+[[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+</p>
+
+
 
 <br />
 
@@ -65,7 +71,6 @@
   <img src="https://raw.githubusercontent.com/KavirajSinghBhati/KavirajSinghBhati/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/KavirajSinghBhati/KavirajSinghBhati/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/KavirajSinghBhati/KavirajSinghBhati/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/KavirajSinghBhati/KavirajSinghBhati/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
 
