@@ -6,7 +6,7 @@
 </div>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/kaviraj-singh-bhati-832309171/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/kaviraj-singh-bhati-832309171/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
  </p>
 
 
@@ -16,8 +16,7 @@
 
 
 <p align="center">
-   <a href="https://twitter.com/_born_may"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_born_may?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@_born_may"></a>
-   <a href="https://badges.pufler.dev/visits/bornmay/bornmay"> <img alt="hemant joshi github" src="https://badges.pufler.dev/visits/bornmay/bornmay"> </a>
+   <a href="https://instagram.com/kaviraj__singh__"><img alt="Instagram Follow" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  </p>
  
  <h5 align="center">
@@ -40,7 +39,7 @@
  - 🛸 Into Music and Singing, and i love taking a stroll every evening.
  
  
- - 💬 Connect? lets get social 👉🏼[<https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" >](https://www.linkedin.com/in/kaviraj-singh-bhati-832309171/)
+ - 💬 Connect? lets get social 👉🏼[<"https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >](https://www.linkedin.com/in/kaviraj-singh-bhati-832309171/)
  
  <p align="center">
   <h4> SQL | Full Stack | JavaScript | C++ with DSA </h4>
@@ -53,7 +52,7 @@
 
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=mayhemant&&show_icons=true&theme=radical"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=KavirajSinghBhati&&show_icons=true&theme=radical"/>
   </a>
 
 </p>
